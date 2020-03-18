@@ -1,0 +1,33 @@
+﻿Build started 01/04/2019 15:11:35.
+     1>Project "D:\sistem\progam\pemrograman visual\kalkulator_sederhana\kalkulator_sederhana\kalkulator_sederhana.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\kalkulator_sederhana.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\kalkulator_sederhana.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt kalkulator_sederhana.cpp /clr:nostdlib 
+         kalkulator_sederhana.cpp
+     1>d:\sistem\progam\pemrograman visual\kalkulator_sederhana\kalkulator_sederhana\Form1.h(411): warning C4101: 'e' : unreferenced local variable
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\sistem\progam\pemrograman visual\kalkulator_sederhana\Debug\kalkulator_sederhana.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\kalkulator_sederhana.Form1.resources /MANIFEST /ManifestFile:"Debug\kalkulator_sederhana.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\sistem\progam\pemrograman visual\kalkulator_sederhana\Debug\kalkulator_sederhana.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\kalkulator_sederhana.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         kalkulator_sederhana.vcxproj -> D:\sistem\progam\pemrograman visual\kalkulator_sederhana\Debug\kalkulator_sederhana.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\sistem\progam\pemrograman visual\kalkulator_sederhana\Debug\kalkulator_sederhana.exe;#1" /manifest Debug\kalkulator_sederhana.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\kalkulator_sederhana.unsuccessfulbuild".
+         Touching "Debug\kalkulator_sederhana.lastbuildstate".
+     1>Done Building Project "D:\sistem\progam\pemrograman visual\kalkulator_sederhana\kalkulator_sederhana\kalkulator_sederhana.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.58

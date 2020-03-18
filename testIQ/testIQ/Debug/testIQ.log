@@ -1,0 +1,25 @@
+﻿Build started 25/07/2019 21:18:38.
+     1>Project "D:\sistem\program\pemrograman visual\testIQ\testIQ\testIQ.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\testIQ.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         testIQ.vcxproj -> D:\sistem\program\pemrograman visual\testIQ\Debug\testIQ.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\testIQ.unsuccessfulbuild".
+         Touching "Debug\testIQ.lastbuildstate".
+     1>Done Building Project "D:\sistem\program\pemrograman visual\testIQ\testIQ\testIQ.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.67

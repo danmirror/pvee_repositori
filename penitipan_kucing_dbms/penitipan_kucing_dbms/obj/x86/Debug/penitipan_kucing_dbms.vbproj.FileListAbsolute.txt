@@ -1,0 +1,18 @@
+D:\sistem\progam\pemrograman visual\penitipan_kucing_dbms\penitipan_kucing_dbms\bin\Debug\penitipan_kucing_dbms.exe
+D:\sistem\progam\pemrograman visual\penitipan_kucing_dbms\penitipan_kucing_dbms\bin\Debug\penitipan_kucing_dbms.pdb
+D:\sistem\progam\pemrograman visual\penitipan_kucing_dbms\penitipan_kucing_dbms\bin\Debug\penitipan_kucing_dbms.xml
+D:\sistem\progam\pemrograman visual\penitipan_kucing_dbms\penitipan_kucing_dbms\obj\x86\Debug\penitipan_kucing_dbms.Form1.resources
+D:\sistem\progam\pemrograman visual\penitipan_kucing_dbms\penitipan_kucing_dbms\obj\x86\Debug\penitipan_kucing_dbms.Resources.resources
+D:\sistem\progam\pemrograman visual\penitipan_kucing_dbms\penitipan_kucing_dbms\obj\x86\Debug\penitipan_kucing_dbms.vbproj.GenerateResource.Cache
+D:\sistem\progam\pemrograman visual\penitipan_kucing_dbms\penitipan_kucing_dbms\obj\x86\Debug\penitipan_kucing_dbms.exe
+D:\sistem\progam\pemrograman visual\penitipan_kucing_dbms\penitipan_kucing_dbms\obj\x86\Debug\penitipan_kucing_dbms.xml
+D:\sistem\progam\pemrograman visual\penitipan_kucing_dbms\penitipan_kucing_dbms\obj\x86\Debug\penitipan_kucing_dbms.pdb
+C:\Users\Danu\Documents\Visual Studio 2010\Projects\penitipan_kucing_dbms\penitipan_kucing_dbms\obj\x86\Debug\penitipan_kucing_dbms.exe
+C:\Users\Danu\Documents\Visual Studio 2010\Projects\penitipan_kucing_dbms\penitipan_kucing_dbms\obj\x86\Debug\penitipan_kucing_dbms.xml
+C:\Users\Danu\Documents\Visual Studio 2010\Projects\penitipan_kucing_dbms\penitipan_kucing_dbms\obj\x86\Debug\penitipan_kucing_dbms.pdb
+C:\Users\Danu\Documents\Visual Studio 2010\Projects\penitipan_kucing_dbms\penitipan_kucing_dbms\bin\Debug\penitipan_kucing_dbms.exe
+C:\Users\Danu\Documents\Visual Studio 2010\Projects\penitipan_kucing_dbms\penitipan_kucing_dbms\bin\Debug\penitipan_kucing_dbms.pdb
+C:\Users\Danu\Documents\Visual Studio 2010\Projects\penitipan_kucing_dbms\penitipan_kucing_dbms\bin\Debug\penitipan_kucing_dbms.xml
+C:\Users\Danu\Documents\Visual Studio 2010\Projects\penitipan_kucing_dbms\penitipan_kucing_dbms\obj\x86\Debug\penitipan_kucing_dbms.Form1.resources
+C:\Users\Danu\Documents\Visual Studio 2010\Projects\penitipan_kucing_dbms\penitipan_kucing_dbms\obj\x86\Debug\penitipan_kucing_dbms.Resources.resources
+C:\Users\Danu\Documents\Visual Studio 2010\Projects\penitipan_kucing_dbms\penitipan_kucing_dbms\obj\x86\Debug\penitipan_kucing_dbms.vbproj.GenerateResource.Cache

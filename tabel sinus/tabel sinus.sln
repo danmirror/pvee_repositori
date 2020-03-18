@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tabel sinus", "tabel sinus\tabel sinus.vcxproj", "{DEDFC2C0-DC27-4F0A-9105-8D9B712659D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEDFC2C0-DC27-4F0A-9105-8D9B712659D6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DEDFC2C0-DC27-4F0A-9105-8D9B712659D6}.Debug|Win32.Build.0 = Debug|Win32
+		{DEDFC2C0-DC27-4F0A-9105-8D9B712659D6}.Release|Win32.ActiveCfg = Release|Win32
+		{DEDFC2C0-DC27-4F0A-9105-8D9B712659D6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

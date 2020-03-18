@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kalkulator_sederhana", "kalkulator_sederhana\kalkulator_sederhana.vcxproj", "{ACFEF772-658D-42AC-8235-3DD5118E5DDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACFEF772-658D-42AC-8235-3DD5118E5DDA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ACFEF772-658D-42AC-8235-3DD5118E5DDA}.Debug|Win32.Build.0 = Debug|Win32
+		{ACFEF772-658D-42AC-8235-3DD5118E5DDA}.Release|Win32.ActiveCfg = Release|Win32
+		{ACFEF772-658D-42AC-8235-3DD5118E5DDA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

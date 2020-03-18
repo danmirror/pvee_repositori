@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "penitipan_kucing_dbms", "penitipan_kucing_dbms\penitipan_kucing_dbms.vbproj", "{BCD758EA-51AB-4E81-9EC7-4693CCE96084}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCD758EA-51AB-4E81-9EC7-4693CCE96084}.Debug|x86.ActiveCfg = Debug|x86
+		{BCD758EA-51AB-4E81-9EC7-4693CCE96084}.Debug|x86.Build.0 = Debug|x86
+		{BCD758EA-51AB-4E81-9EC7-4693CCE96084}.Release|x86.ActiveCfg = Release|x86
+		{BCD758EA-51AB-4E81-9EC7-4693CCE96084}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
