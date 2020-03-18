@@ -1,7 +1,7 @@
 # PVEE_repositori
 
 
-# ketentuan
+### ketentuan
 - > menggunakan visual studio 2010.
 - > menggunakan bahasa c++.
 
