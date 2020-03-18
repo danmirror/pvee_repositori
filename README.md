@@ -1,4 +1,7 @@
-# pvee_repositori
+# pvee_repositori#
 
-# pastikan menggunakan visual 2010
+# ketentuan
+-menggunakan visual studio 2010
+-menggunakan bahasa c++
+
 
