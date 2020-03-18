@@ -2,7 +2,7 @@
 
 
 # ketentuan
- > menggunakan visual studio 2010.
- > menggunakan bahasa c++.
+* menggunakan visual studio 2010.
+* > menggunakan bahasa c++.
 
 
