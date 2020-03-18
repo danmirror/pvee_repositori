@@ -1,4 +1,4 @@
-# pvee_repositori#
+# pvee_repositori
 
 # ketentuan
 %menggunakan visual studio 2010
